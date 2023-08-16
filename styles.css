@@ -13,6 +13,14 @@ h1 {
     margin-bottom: 10px;
     color: #36013f;
 }
+h2 {
+    font-family: 'Miller Text', sans-serif;
+    font-weight: 700;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 10px;
+    color: #36013f;
+}
 
 .text {
     font-family: 'Georgia', serif;
@@ -59,12 +67,4 @@ h1 {
 .button:hover {
     background-color: #6d2b7e;
     color: #f6b3ff;
-}
-
-
-.video-container {
-    display: flex;
-    justify-content: center; /* horizontal align */
-    align-items: center; /* vertically align */
-    gap: 25px;
 }
