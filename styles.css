@@ -32,6 +32,11 @@ img {
     color: #36013f;
     font-size: large;
 }
+.footer {
+    font-family: 'Georgia', serif;
+    color: #36013f;
+    font-size: smaller;
+}
 
 .center {
     margin: auto;
